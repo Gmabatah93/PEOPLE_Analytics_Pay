@@ -1,9 +1,9 @@
 # PEOPLE_Analytics_Pay
 > Overview
 
----
+> ## Summary
 
-## Summary
+---
 
 ### Table Of Contents
 
